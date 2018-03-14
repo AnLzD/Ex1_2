@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.dll.config
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.pdb
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\Ex1_2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\Ex1_2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.pdb
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\bin\IntrestRateCalculator.dll.config
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\bin\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\bin\IntrestRateCalculator.pdb
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\obj\Debug\Ex1_2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\obj\Debug\Ex1_2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\obj\Debug\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\Ex1_2\Ex1_2\obj\Debug\IntrestRateCalculator.pdb

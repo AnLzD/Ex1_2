@@ -1,0 +1,12 @@
+D:\Visual Studio 2010 Projects\Projects\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.dll
+D:\Visual Studio 2010 Projects\Projects\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.pdb
+D:\Visual Studio 2010 Projects\Projects\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010 Projects\Projects\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.dll
+D:\Visual Studio 2010 Projects\Projects\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.pdb
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.dll.config
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\bin\IntrestRateCalculator.pdb
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.dll
+C:\Users\ADMIN\Downloads\IntrestRateCalculator\IntrestRateCalculator\IntrestRateCalculator\obj\Debug\IntrestRateCalculator.pdb
